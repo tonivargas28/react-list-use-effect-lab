@@ -10,7 +10,7 @@ const ContactItem = ({ contact, onDelete }) => {
     </div>
   );
 };
-export default ContactItem;
+export default ContactItem
 
 
 
